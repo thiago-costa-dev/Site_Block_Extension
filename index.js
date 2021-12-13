@@ -4,8 +4,7 @@ function main() {
         'youtube',
         'facebook',
         'twitter',
-        'instagram',
-        'imdb'
+        'instagram'
     ];
     const redirectUrl = 'https://c.tenor.com/657Vy3stnf8AAAAd/away-para-com-essa-porra.gif';
 
